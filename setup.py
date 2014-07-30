@@ -3,7 +3,6 @@ from setuptools import setup, find_packages
 setup(
     name = "pingdom",
     version = "1.0",
-    packages=['pingdom'],
     scripts=['pingdom.py'],
     author = "Dan Craig",
     author_email = "drcraig@gmail.com",
